@@ -72,7 +72,7 @@ void loop() {
         return;
       }
       
-      bool LightSwitchNum1 = doc["Light_switch_1"]; 
+      bool LightSwitchNum1 = doc["light_switch_1"]; 
       bool LightSwitchNum2 = doc["light_switch_2"]; 
       bool LightSwitchNum3 = doc["light_switch_3"]; 
   
